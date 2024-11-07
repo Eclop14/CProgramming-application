@@ -112,7 +112,7 @@ void loadFromFile() {
 
 // 입고 처리 함수
 void inputProduct() {
-    printf("\n1 << 입고메뉴실행(상품 갯수 초과 시 메시지 출력)\n");
+    printf("\n1 \n");
     int id;
     printf("상품ID : ");
     scanf("%d", &id);

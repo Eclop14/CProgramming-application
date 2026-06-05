@@ -1,5 +1,13 @@
+
+# 📚 CProgramming-application
+
 A repository containing weekly assignments and practice code from the C Programming Application course.
 
+---
+
+## 📁 Project Structure
+
+```
 CProgramming-application/
 ├── 9/          # Week 9 Practice (Oct 07 - Oct 13)
 ├── 10/         # Week 10 Practice (Oct 28 - Nov 03)
@@ -17,6 +25,11 @@ CProgramming-application/
 ├── CP9.c       # Week 7 Practice
 ├── CP9-2.c     # Week 7 Practice
 └── CP9-3.c     # Week 7 Practice
+```
+
+---
+
+## 📝 Topics Covered
 
 | Week | Topic |
 |------|-------|
@@ -26,11 +39,16 @@ CProgramming-application/
 | Week 7 | Advanced Practice |
 | Week 9 - 11 | Applied Programming |
 
+---
 
+## 🛠 Environment
 
 - **Language**: C (ANSI C / C99)
 - **Compiler**: GCC
 
+---
+
+## ▶️ How to Compile & Run
 
 ```bash
 # Compile
@@ -40,8 +58,14 @@ gcc -o output CP1.c
 ./output
 ```
 
+---
+
+## 👤 Author
+
 - **GitHub**: [Eclop14](https://github.com/Eclop14)
 
 ---
+
+## 📄 License
 
 MIT License

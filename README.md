@@ -1,2 +1,0 @@
-# CProgramming-application
-CP
